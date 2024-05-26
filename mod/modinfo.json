@@ -1,0 +1,10 @@
+﻿{
+	"id": "ddemile.fake_achievements_example",
+	"name": "Fake Achievements Example",
+	"version": "0.1.0",
+	"authors": "ddemile",
+	"description": "An example mod using the Fake Achievements mod.",
+	"requirements": [ "ddemile.fake_achievements" ],
+	"requirements_names": [ "Fake Achievements" ],
+	"tags": [ "Custom Slugcat" ]
+}

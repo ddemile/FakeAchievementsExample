@@ -1,0 +1,2 @@
+# FakeAchievementsExample
+An example mod that uses the FakeAchievements mod to create fake achievements for the game. Please refer to the [FakeAchievements GitHub](https://github.com/ddemile/FakeAchievements#fakeachievements) for the mod documentation.
