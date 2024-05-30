@@ -27,7 +27,7 @@ namespace FakeAchievementsExample
         {
             orig(self);
 
-            FakeAchievementManager.ShowAchievement(Achievements.Die);
+            AchievementsManager.ShowAchievement(Achievements.Die);
         }
     }
 }
